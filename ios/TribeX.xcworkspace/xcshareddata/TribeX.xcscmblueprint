@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F4000E834710190AC398D15199882A0E024C167F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F4000E834710190AC398D15199882A0E024C167F" : 9223372036854775807,
+    "E876BB44FC4DBC52F573C51B6E974BF4AA66123E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4F4F4DA9-C5AB-4C3A-82D9-AAC96FD46E33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F4000E834710190AC398D15199882A0E024C167F" : "Live\/",
+    "E876BB44FC4DBC52F573C51B6E974BF4AA66123E" : "Live\/node_modules\/react-native-camera\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TribeX",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/TribeX.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mendyEdri\/react-native-camera.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E876BB44FC4DBC52F573C51B6E974BF4AA66123E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/talenttribeltd\/tribex.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4000E834710190AC398D15199882A0E024C167F"
+    }
+  ]
+}

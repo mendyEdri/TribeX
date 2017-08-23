@@ -1,0 +1,3 @@
+target 'TribeX' do
+pod ‘Mixpanel’
+end
